@@ -20,4 +20,3 @@ Parking Duration	Weekend (Sat,Sun) Rate	Weekday Rate
 •	Implementation of Reporting service will also use the mocked storage layer. Please decide what functions you would like to expose for the reporting service.
 •	All endpoints exposed by Service must be RESTful.
 •	Demonstrate OO design, SOLID principles and use any framework you wish as long as you can justify its usage.
-•	The task should take around 2-3 hours.
