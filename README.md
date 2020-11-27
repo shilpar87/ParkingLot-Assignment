@@ -1,6 +1,6 @@
 # ParkingLot-Assignment
 
-Create a Parking Lot Pricing service in Java or PHP that takes the Entry and Exit time of vehicle and returns total amount to be collected at the exit gate using the tariff table given below:-
+Create a Parking Lot Pricing service in Java that takes the Entry and Exit time of vehicle and returns total amount to be collected at the exit gate using the tariff table given below:-
 
 Parking Duration	Weekend (Sat,Sun) Rate	Weekday Rate
 
